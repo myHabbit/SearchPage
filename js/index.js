@@ -1,6 +1,6 @@
 var searchType = localStorage.getItem("searchType");
 if (searchType === null) {
-  searchType = "biyin";
+  searchType = "baidu";
   localStorage.setItem("searchType", searchType);
 }
 
