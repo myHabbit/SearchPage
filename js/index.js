@@ -59,14 +59,14 @@ let githubBtn = document.getElementById("github");
 let blogBtn = document.getElementById("blog");
 let yuqueBtn = document.getElementById("yuque");
 juejinBtn.addEventListener("click", function () {
-  window.location.href = "https://juejin.cn/user/3448531401316829";
+  window.location.href = "https://juejin.cn/";
 });
 githubBtn.addEventListener("click", function () {
-  window.location.href = "https://github.com/Yohn-z";
+  window.location.href = "https://github.com/myHabbit";
 });
 blogBtn.addEventListener("click", function () {
-  window.location.href = "https://yohn-z.cn";
+  window.location.href = "http://joyfulWei.cn";
 });
 yuqueBtn.addEventListener("click", function () {
-  window.location.href = "https://www.yuque.com";
+  window.location.href = "https://www.yuque.com/u39588607/eufdhb";
 });
